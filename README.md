@@ -116,9 +116,9 @@ If the notebook doesn't load, on Github, view it on Jovian.
 
 # *Real-time project - An exhaustive Whatsapp Chat Data Analysis*
 
-- The complete project can be viewed on the repository - [whatsapp-chat-analysis]().
+- The complete project can be viewed on the repository - [whatsapp-chat-analysis](https://github.com/topics/whatsapp-analysis).
 
-- If the notebook doesn't load, the complete notebook can be viewed on [Whatsapp Chat Analysis]() website, the notebook as been embedded in a `index.html` file, so that the complete analysis could be viewed easily.
+- If the notebook doesn't load, the complete notebook can be viewed on [Whatsapp Chat Analysis](https://github.com/topics/whatsapp-analysis) website, the notebook as been embedded in a `index.html` file, so that the complete analysis could be viewed easily.
 
 ## *[Resources](https://github.com/tusharnankani/data-analysis-with-python/tree/main/cheat-sheets)*
 
